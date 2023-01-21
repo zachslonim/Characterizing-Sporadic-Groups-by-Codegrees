@@ -17,7 +17,7 @@ This README.md file contains basic information about this project and instructio
 
 ## Description
 
-The files contained in this repository were used to assist in the proving them theorem that that the simple sporadic groups are determined up to isomorphism by their codegree sets. The theorem appears in the article "On the Characterization of Sporadic Simple Groups by Codegrees" which has the following abstract
+The files contained in this repository were used to assist in the proving the theorem that that the simple sporadic groups are determined up to isomorphism by their codegree sets. The theorem appears in the article "On the Characterization of Sporadic Simple Groups by Codegrees" which has the following abstract
 
  >Let $G$ be a finite group and $\mathrm{Irr}(G)$ the set of all irreducible complex characters of $G$.  Define the codegree of $\chi \in \mathrm{Irr}(G)$ as $\mathrm{cod}(\chi):=\frac{|G:\mathrm{ker}(\chi) |}{\chi(1)}$ and denote by $\mathrm{cod}(G):=\{\mathrm{cod}(\chi) \mid \chi\in \mathrm{Irr}(G)\}$ the codegree set of $G$. Let $H$ be one of the $26$ sporadic simple groups. In this paper, we show that $H$ is determined up to isomorphism by cod$(H)$.
 
