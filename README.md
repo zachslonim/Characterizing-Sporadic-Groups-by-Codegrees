@@ -1,12 +1,9 @@
 # Characterizing Sporadic Groups by their Codegree Sets
 
-## Description
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 This README.md file contains basic information about this project and instructions on how to edit and/or and run the project.
 
 ## Table of Contents
+1. Description
 
 1. Requirements
 
@@ -17,6 +14,14 @@ This README.md file contains basic information about this project and instructio
 1. Contributions
 
 1. License
+
+## Description
+
+The files contained in this repository were used to assist in the proving them theorem that that the simple sporadic groups are determined up to isomorphism by their codegree sets. The theorem appears in the article "On the Characterization of Sporadic Simple Groups by Codegrees" which has the following abstract
+
+ >Let $G$ be a finite group and $\mathrm{Irr}(G)$ the set of all irreducible complex characters of $G$.  Define the codegree of $\chi \in \mathrm{Irr}(G)$ as $\mathrm{cod}(\chi):=\frac{|G:\mathrm{ker}(\chi) |}{\chi(1)}$ and denote by $\mathrm{cod}(G):=\{\mathrm{cod}(\chi) \mid \chi\in \mathrm{Irr}(G)\}$ the codegree set of $G$. Let $H$ be one of the $26$ sporadic simple groups. In this paper, we show that $H$ is determined up to isomorphism by cod$(H)$.
+
+ The proof of the theorem is completed in two main parts, which are separated in the paper. The first part involves proving that if a group $G$ has the same codegree set as a sporadic simple group $H$, then if $N$ is a maximal normal subgroup of $G$, then $G/N \cong H$. The second part of the proof involves showing that $N = 1$, and hence $G \cong H$. Please reach out to the contributors for more information if interested.
 
 ## Requirements
 
