@@ -19,7 +19,7 @@ This README.md file contains basic information about this project and instructio
 
 The files contained in this repository were used to assist in the proving the theorem that that the simple sporadic groups are determined up to isomorphism by their codegree sets. The theorem appears in the article "On the Characterization of Sporadic Simple Groups by Codegrees" which has the following abstract
 
- >Let $G$ be a finite group and $\mathrm{Irr}(G)$ the set of all irreducible complex characters of $G$.  Define the codegree of $\chi \in \mathrm{Irr}(G)$ as $\mathrm{cod}(\chi):=\frac{|G:\mathrm{ker}(\chi) |}{\chi(1)}$ and denote by $\mathrm{cod}(G):=\{\mathrm{cod}(\chi) \mid \chi\in \mathrm{Irr}(G)\}$ the codegree set of $G$. Let $H$ be one of the $26$ sporadic simple groups. In this paper, we show that $H$ is determined up to isomorphism by cod$(H)$.
+ >Let $G$ be a finite group and $\mathrm{Irr}(G)$ the set of all irreducible complex characters of $G$.  Define the codegree of $\chi \in \mathrm{Irr}(G)$ as $\mathrm{cod}(\chi):=\frac{|G:\mathrm{ker}(\chi) |}{\chi(1)}$ and denote by $\mathrm{cod}(G):=\{\mathrm{cod}(\chi) \mid \chi\in \mathrm{Irr}(G)\}$ the codegree set of $G$. Let $H$ be one of the $26$ sporadic simple groups. In this paper, we show that $H$ is determined up to isomorphism by $\mathrm{cod}(H)$.
 
  The proof of the theorem is completed in two main parts, which are separated in the paper. The first part involves proving that if a group $G$ has the same codegree set as a sporadic simple group $H$, then if $N$ is a maximal normal subgroup of $G$, then $G/N \cong H$. The second part of the proof involves showing that $N = 1$, and hence $G \cong H$. Please reach out to the contributors for more information if interested.
 
