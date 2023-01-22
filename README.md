@@ -38,7 +38,7 @@ Once all dependencies are downloaded and installed, you can run Julia scripts wi
 ```
 > julia "Step 1 Calculations.jl"
 
-> julia "Step 1 Calculations.jl"
+> julia "Step 2 Calculations.jl"
 ```
 
 ## Contributions
