@@ -25,7 +25,7 @@ The files contained in this repository were used to assist in the proving the th
 
 ## Requirements
 
-This project assumes you have [Julia](https://julialang.org/) downloaded and installed on your local machine. Visit the downloads page [here](https://julialang.org/downloads/) to find the latest release for Windows, macOS, or Linux.
+This project assumes you have [Julia](https://julialang.org/) downloaded and installed on your local machine. Visit the downloads page [here](https://julialang.org/downloads/) to find the latest release for Windows, macOS, or Linux. You can confirm that Julia was correctly installed on your machine and is accesible globally by simply running the command `julia` on any terminal. If you believe Julia is installed correctly but that is not working, it is likely that your path variable was not set up correctly. 
 
 ## Installation 
 
@@ -33,7 +33,13 @@ Clone this repository to your local machine and navigate to the root of the clon
 
 ## Usage
 
-Once all dependencies are downloaded and installed, ...
+Once all dependencies are downloaded and installed, you can run Julia scripts with the command `julia <filename>`. Specifically, run the scripts written for this research project with the below commands.
+
+```
+> julia "Step 1 Calculations.jl"
+
+> julia "Step 1 Calculations.jl"
+```
 
 ## Contributions
 
